@@ -4,3 +4,4 @@ pressao = 15
 
 frutas.pop()
 print(frutas)
+
